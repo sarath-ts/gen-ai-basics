@@ -1,1 +1,2 @@
-# gen-ai-basics
+# Gen AI - basics
+
